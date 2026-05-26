@@ -54,7 +54,7 @@
 ### 📁 Projecte 6
 | Recurs | Enllaç al Repositori | Descripció |
 | :--- | :--- | :--- |
-| **Repositori Principal** | [🔗 projecte-8-Xalopa](https://github.com/classesSMX2n/projecte-6-Xalopa) | Fil conductor del P6 |
+| **Repositori Principal** | [🔗 projecte-6-Xalopa](https://github.com/classesSMX2n/projecte-6-Xalopa) | Fil conductor del P6 |
 | Tasca 02 (T02) | [📂 Veure T02](https://github.com/classesSMX2n/projecte6-Xalopa/tree/main/T02) | Tasca |
 | Tasca 03 (T03) | [📂 Veure T03](https://github.com/classesSMX2n/projecte6-Xalopa/tree/main/T03) | Tasca |
 | Tasca 04 (T04) | [📂 Veure T04](https://github.com/classesSMX2n/projecte6-Xalopa/tree/main/T04) | Tasca |
