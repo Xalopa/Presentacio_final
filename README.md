@@ -8,7 +8,7 @@ Aquest espai web actua com a fil conductor i portafoli centralitzat per a la def
 
 > 💡 **Important:** Pots accedir directament al document principal que guiarà tota l'exposició des d'aquí:
 > 
-> ### 📑 [Anar a la Presentació de la Defensa)](https://github.com/Xalopa/Presentacio_final/blob/main/Presentacio/presentacio.md)
+> ### 📑 [Anar a la Presentació Final](https://github.com/Xalopa/Presentacio_final/blob/main/Presentacio/presentacio.md)
 
 ---
 
